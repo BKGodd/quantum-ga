@@ -1,0 +1,42 @@
+QV9
+grid_5x5: null :3.22:20.69
+grid_5x4: null :3.08:20.72
+grid_7x3: null :3.14:20.29
+ring_20: null :8.0:19.42
+paris: null :5.69:21.95
+QFT-6
+grid_5x5: null :4.3:28.41
+grid_5x4: null :3.94:28.21
+grid_7x3: null :4.22:28.21
+ring_20: null :7.42:29.85
+paris: null :5.76:29.59
+BV-10
+grid_5x5: null :3.5:11.26
+grid_5x4: null :3.13:10.89
+grid_7x3: null :3.38:11.15
+ring_20: null :7.38:14.55
+paris: null :5.21:13.02
+QFT-15
+grid_5x5: null :67.08:265.24
+grid_5x4: null :66.99:265.86
+grid_7x3: null :71.43:267.9
+ring_20: null :136.46:302.59
+paris: null :102.63:286.55
+qft_n20
+grid_5x5: null :195.17:376.7
+grid_5x4: null :189.24:365.82
+grid_7x3: null :197.78:370.51
+ring_20: null :278.79:304.65
+paris: null :309.66:379.71
+qaoa10_depth2
+grid_5x5: null :5.26:28.48
+grid_5x4: null :5.49:28.97
+grid_7x3: null :5.81:28.62
+ring_20: null :16.03:31.07
+paris: null :14.72:32.55
+BV-15
+grid_5x5: null :16.0:30.28
+grid_5x4: null :15.75:29.58
+grid_7x3: null :18.33:31.75
+ring_20: null :30.59:43.98
+paris: null :24.95:37.62
